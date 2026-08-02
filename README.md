@@ -100,11 +100,11 @@ Applied StandardScaler to all numerical features:
 
 ### Final Dataset Structure
 Final Dataset: (2451, 69)
-├── 14 Original Numerical Features
-├── 3 Encoded Binary Columns
-├── 49 One-Hot Encoded State Columns
-├── 2 One-Hot Encoded Area Code Columns
-└── 1 Target Variable (Churn)
+14 Original Numerical Features
+3 Encoded Binary Columns
+49 One-Hot Encoded State Columns
+2 One-Hot Encoded Area Code Columns
+1 Target Variable (Churn)
 
 text
 
